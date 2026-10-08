@@ -4,7 +4,7 @@ Database student interested in **data analytics** and **data engineering**. I li
 
 ## Skills
 
-SQL | PostgreSQL | Pentaho (ETL) | Python | R | React
+C | Java | Python | JavaScript | HTML | CSS | SQL | R | PostgreSQL | Pentaho (ETL) | React
 
 ## Projects
 
