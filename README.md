@@ -1,4 +1,4 @@
-# Hi, I'm vie-m
+# Hi, I'm Vinson Mervin
 
 Database student interested in **data analytics** and **data engineering**. I like turning raw data into clean models and clear answers.
 
